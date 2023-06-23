@@ -41,6 +41,6 @@
     "es6-promise": "3.1.2",
     "faye": "1.2.3",
     "lodash": "3.10.1",
-    "superagent": "1.7.2"
+    "superagent": "8.0.9"
   }
 }
