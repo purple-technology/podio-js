@@ -1,6 +1,6 @@
 {
   "name": "@purple/podio-js",
-  "version": "1.6.6",
+  "version": "1.6.7",
   "description": "Podio Platform JavaScript SDK for NodeJS and the browser",
   "main": "lib/index",
   "scripts": {
@@ -37,10 +37,10 @@
     "sinon": "1.17.3"
   },
   "dependencies": {
-    "urijs": "1.19.2",
+    "urijs": "1.19.11",
     "es6-promise": "3.1.2",
     "faye": "1.2.3",
     "lodash": "4.17.21",
-    "superagent": "8.0.9"
+    "superagent": "8.1.2"
   }
 }
