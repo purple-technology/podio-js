@@ -1,7 +1,6 @@
 var general = require('../lib/general');
 var PodioErrors = require('../lib/PodioErrors');
 var sinon = require('sinon');
-var _ = require('lodash');
 
 describe('general', function() {
   
